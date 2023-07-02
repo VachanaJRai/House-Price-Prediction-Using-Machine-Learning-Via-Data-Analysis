@@ -1,5 +1,6 @@
 # House Price Prediction Using Machine Learning Via Data Analysis
-
+⇀ Led a comprehensive project leveraging machine learning and data analysis techniques to predict house prices of Bengaluru Urban. <br>
+⇀ Successfully implemented feature engineering and advanced regression models with impressive user interface, predicting with an accuracy of 97%.
 ![image](https://github.com/VachanaJRai/House-Price-Prediction-Using-Machine-Learning-Via-Data-Analysis/assets/138142357/bbda8416-f3c5-4d7b-ab93-9fd33f9849e3)
 ![image](https://github.com/VachanaJRai/House-Price-Prediction-Using-Machine-Learning-Via-Data-Analysis/assets/138142357/042010cf-44e7-4d21-b4cd-0224e87f7a16)
 ![image](https://github.com/VachanaJRai/House-Price-Prediction-Using-Machine-Learning-Via-Data-Analysis/assets/138142357/2cae2c7e-b53b-4cd4-9b35-2a44edb6977d)
